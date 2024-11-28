@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,600;0,700;0,800;0,900;1,700;1,800;1,900&display=swap');
+
+
+body{
+    background-color: #2A5056;
+    margin: 0;
+    text-align: center;
+}
+
+.hero{
+    background-color: #06283D;
+    height: 800px;
+    padding-top: 100px;
+    position: relative;
+    
+
+
+}
+
+.title{
+    color: whitesmoke;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+}
+
+h1{
+    font-size: 70px;
+}
+
+h2{
+    font-size: 30px;
+}
+
+
+
+#cd1{
+    width:350px; height:150px;
+    position: absolute;
+    top: 50px;
+    right: 100px;
+}
+#cd2{
+    position: absolute;
+    width:300px; height:120px;
+    top: 280px;
+    left: 80px;
+}
+
+
+.shiv{
+    padding-top: 80px;
+    width:500px; height:500px;
+}
+
+.mount{
+    position: absolute;
+    top: 570px;
+    right: 0;
+    width:1350px; height:350px;
+}
+
+
+
+.middle{
+    padding-top: 20px;
+    width: 60%;
+    margin: 0 auto;
+}
+
+#roles{
+    margin-top: 150px;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3em;
+}
+
+#roles-h{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2em;
+    width: 80%;
+    font-weight: 400;
+    margin: 0 auto;
+}
+.under{
+    text-decoration: underline;
+}
+
+.skill{
+    margin: 100px 0 150px 0;
+}
+
+.icon{
+    width: 25%;
+    float: left;
+    margin-right: 20px;
+}
+.subh{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3em;
+    text-align: left;
+    
+    
+}
+.subp{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1em;
+    text-align: left;
+    line-height: 2;
+  
+}
+
+.icon-m{
+    width: 25%;
+    float: right;
+    margin-left: 20px;
+}
